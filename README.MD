@@ -14,4 +14,4 @@
 | [How to Enter Team Score](manual/Assessor%20-%20How%20to%20Enter%20Team%20Score.pdf)                                | `Assessor`    |
 | [How to View Scoring Results](manual/All%20Users%20-%20How%20to%20View%20Scoring%20Results.pdf)                     | `All Users`   |
 
-You can download all user manuals (zip file) through **[UserManuals.zip](manual/UserManuals.zip)**
+You can download all user manuals (zip file) through **[UserManuals.zip](https://github.com/ArtOfIntel/RadarSolutionPackage/raw/main/manual/UserManuals.zip)**

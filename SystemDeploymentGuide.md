@@ -106,7 +106,7 @@ Or using the GUI:
 
 ## Administration & Usage Manuals
 
-You can download all user manuals (zip file) through **[UserManuals.zip](manual/UserManuals.zip)** or view them online below:
+You can download all user manuals (zip file) through **[UserManuals.zip](https://github.com/ArtOfIntel/RadarSolutionPackage/raw/main/manual/UserManuals.zip)** or view them online below:
 
 | Manual                                                                                                              | For           |
 | ------------------------------------------------------------------------------------------------------------------- | ------------- |
