@@ -17,7 +17,7 @@
   - [5. Expose Relevant Network Ports](#5-expose-relevant-network-ports)
   - [6. (Optional) Expose Local URL](#6-optional-expose-local-url)
   - [7. Share Access URL](#7-share-access-url)
-- [Default Admin Credentials](#default-credentials)
+- [Default Admin Credentials](#default-admin-credentials)
 - [Administration & Usage Manuals](#administration--usage-manuals)
 
 ## Stack
@@ -99,7 +99,7 @@ Or using the GUI:
 
 - Notify target users with system's URL so they can start using it
 
-## Default Credentials
+## Default Admin Credentials
 
 > Username: _`admin`_  
 > Password: _`admin`_
