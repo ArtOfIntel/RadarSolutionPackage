@@ -42,8 +42,8 @@ Requirements for the server hosting the Docker image are as follows:
 
 ### 2. Download & Load Docker Image
 
-1. Head to the solution package [here](package/radar.tar), and download the file to your local machine (your server)
-2. load the Docker image to their local Docker environment using the following command:
+1. Head to the solution package [here](https://netorgft5795324-my.sharepoint.com/:u:/g/personal/jack_tbc-me_com/EQLQMa5d6FJAqBy7QXSGd1QBDw89PdCU_50bGCro7BKFzA?e=sF2CQk), and download the file to your local machine (your server)
+2. Load the Docker image to their local Docker environment using the following command:
    ```bash
    docker load -i path_to_your_tar/radar.tar
    ```
@@ -81,6 +81,21 @@ Or using the GUI:
 
 - Notify target users with system's URL so they can start using it
 
----
+## Default Credentials
+
+> Username: `admin`  
+> Password: `admin`
 
 ## Administration & Usage Manuals
+
+| Manual                               | For         | Download                                                                                | View Online                                                                                                                                          |
+| ------------------------------------ | ----------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Administration:**                  |
+| How to Add a New User in Admin Panel | Admin       | [Download](manual/Admin%20-%20How%20to%20Add%20a%20New%20User%20in%20Admin%20Panel.pdf) | [View Online](https://github.com/ArtOfIntel/RadarSolutionPackage/blob/main/manual/Admin%20-%20How%20to%20Add%20a%20New%20User%20in%20AdminPanel.pdf) |
+| How Delete a Book                    | Admin       | [Download](manual/Admin%20-%20How%20Delete%20a%20Book.pdf)                              | [View Online](https://github.com/ArtOfIntel/RadarSolutionPackage/blob/main/manual/Admin%20-%20How%20Delete%20a%20Book.pdf)                           |
+| **Usage:**                           |
+| Change Theme & Interface             | All Users   | [Download](manual/All%20Users%20-%20Change%20Theme%20&%20Interface.pdf)                 | [View Online](https://github.com/ArtOfIntel/RadarSolutionPackage/blob/main/manual/All%20Users%20-%20Change%20Theme%20&%20Interface.pdf)              |
+| How to Enter Approach Data           | Contributor | [Download](manual/Contributor%20-%20How%20to%20Enter%20Approach%20Data.pdf)             | [View Online](https://github.com/ArtOfIntel/RadarSolutionPackage/blob/main/manual/Contributor%20-%20How%20to%20Enter%20Approach%20Data.pdf)          |
+| Creating a New Book                  | Assessor    | [Download](manual/Assessor%20-%20Creating%20a%20New%20Book.pdf)                         | [View Online](https://github.com/ArtOfIntel/RadarSolutionPackage/blob/main/manual/Assessor%20-%20Creating%20a%20New%20Book.pdf)                      |
+| How to Enter Team Score              | Assessor    | [Download](manual/Assessor%20-%20How%20to%20Enter%20Team%20Score.pdf)                   | [View Online](https://github.com/ArtOfIntel/RadarSolutionPackage/blob/main/manual/Assessor%20-%20How%20to%20Enter%20Team%20Score.pdf)                |
+| How to View Scoring Results          | All Users   | [Download](manual/All%20Users%20-%20How%20to%20View%20Scoring%20Results.pdf)            | [View Online](https://github.com/ArtOfIntel/RadarSolutionPackage/blob/main/manual/Admin%20-%20How%20to%20Add%20a%20New%20User%20in%20AdminPanel.pdf) |
