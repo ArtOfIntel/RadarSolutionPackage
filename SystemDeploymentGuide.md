@@ -83,8 +83,8 @@ Or using the GUI:
 
 ## Default Credentials
 
-> Username: `admin`  
-> Password: `admin`
+> Username: _`admin`_  
+> Password: _`admin`_
 
 ## Administration & Usage Manuals
 
