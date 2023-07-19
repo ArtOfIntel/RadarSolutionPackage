@@ -2,6 +2,24 @@
 
 #### Organization Excellence Assessment Tool (RADAR)
 
+## Table of Contents
+
+- [Stack](#stack)
+- [Requirements](#requirements)
+  - [Server](#server)
+  - [Network](#network)
+  - [Clients](#clients)
+- [Deployment](#deployment)
+  - [1. Download & Install Docker](#1-download--install-docker)
+  - [2. Download & Load Docker Image](#2-download--load-docker-image)
+  - [3. Run the Docker Image](#3-run-the-docker-image)
+  - [4. Set Automatic Start](#4-set-automatic-start)
+  - [5. Expose Relevant Network Ports](#5-expose-relevant-network-ports)
+  - [6. (Optional) Expose Local URL](#6-optional-expose-local-url)
+  - [7. Share Access URL](#7-share-access-url)
+- [Default Admin Credentials](#default-credentials)
+- [Administration & Usage Manuals](#administration--usage-manuals)
+
 ## Stack
 
 1. Frontend: Web Application Interface (Vue.js + Vuetify)
